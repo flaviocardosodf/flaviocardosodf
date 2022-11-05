@@ -11,4 +11,6 @@
 ### Minhas tecnologias
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-Em constante aprendizado, apaixonado por tecnologia e sempre disposto a novos desafios.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviocardosodf&layout=compact)](https://github.com/flaviocardosodf/github-readme-stats)
+
+Em constante aprendizado, apaixonado por tecnologia e sempre disposto a novos desafios. 
