@@ -24,4 +24,4 @@
 
 Em constante aprendizado, apaixonado por tecnologia e sempre disposto a novos desafios. 
 
-No atual momento não estou trabalhando e estou estudando React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="15" />.
+No atual momento não estou trabalhando e estou estudando JavaScript.
